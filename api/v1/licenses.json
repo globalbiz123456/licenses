@@ -2,13 +2,19 @@
   "version": "1.0",
   "generated_at": "2025-12-13T00:00:00Z",
   "licenses": {
-    "ACC-2025-PRO-ORONUS-0001": {
-      "status": "active",
-      "customer": "Oronus Customer",
-      "domains": ["oronus.ir", "www.oronus.ir"],
-      "expires": "2026-12-13",
+    "ACC-ORONUS-2025-PRO-0001": {
+      "domain": "oronus.ir",
       "plan": "pro",
-      "notes": "Issued for oronus.ir - min 1 year"
+      "expires": "2026-12-13",
+      "issued_at": "2025-12-13",
+      "notes": "Issued for oronus.ir - 1 year",
+      "payload": {
+        "domain": "oronus.ir",
+        "plan": "pro",
+        "expires": "2026-12-13",
+        "issued_at": "2025-12-13"
+      },
+      "sig": "BASE64_SIGNATURE_HERE"
     }
   }
 }
