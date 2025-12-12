@@ -1,14 +1,11 @@
 {
-  "version": "1.0",
-  "licenses": {
-    "TEST-1234-5678-9012": {
-      "payload": {
-        "domain": "oronus.ir",
-        "expires": "2026-12-31",
-        "plan": "pro",
-        "customer": "تست"
-      },
-      "sig": "REPLACE_WITH_BASE64_SIGNATURE"
-    }
+  "ACC-2025-PRO-870D5C": {
+    "payload": {
+      "domain": "oronus.ir",
+      "expires": "2026-12-12",
+      "plan": "pro",
+      "customer": "Oronus Customer"
+    },
+    "sig": "o1vnJxT0U2flKUvRICnJQGiimTBJhuWG+EZ4wYpgAnAoiF0k1rS/...kDGKlyW9k/yyAyuaIx8YRj7zwHVCuV3rzaHurFNfalwFmcll0cXyQkhTWsTPg=="
   }
 }
