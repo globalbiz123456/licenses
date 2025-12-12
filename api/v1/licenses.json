@@ -1,10 +1,14 @@
 {
+  "version": "1.0",
+  "generated_at": "2025-12-13T00:00:00Z",
   "licenses": {
-    "ACC-2024-PRO-0001": {
+    "ACC-2025-PRO-ORONUS-0001": {
       "status": "active",
-      "domain": "oronus.ir",
-      "expires": "2026-06-01",
-      "plan": "pro"
+      "customer": "Oronus Customer",
+      "domains": ["oronus.ir", "www.oronus.ir"],
+      "expires": "2026-12-13",
+      "plan": "pro",
+      "notes": "Issued for oronus.ir - min 1 year"
     }
   }
 }
